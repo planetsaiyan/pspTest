@@ -75,5 +75,7 @@ WebUI.click(findTestObject('Object Repository/ctb_purchase_fp_assert/button_Plac
 
 WebUI.click(findTestObject('Object Repository/ctb_purchase_fp_assert/order confirmation msg'))
 
+WebUI.verifyMatch(WebUI.getText(findTestObject('Object Repository/ctb_purchase_fp_assert/order confirmation msg')), '(?i)(order)\\s#[0-9]+\\s(confirmed)', true)
+
 WebUI.closeBrowser()
 
