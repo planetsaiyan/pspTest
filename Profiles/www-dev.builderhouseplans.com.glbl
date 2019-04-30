@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>www-dev.builderhouseplans.com</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://www-dev.floorplans.com'</initValue>
+      <initValue>'https://www-dev.builderhouseplans.com'</initValue>
       <name>storeUrl</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pdf_checkout_fp_tc_global_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dba4b2c1-b520-4d85-9c01-993634653dfa</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www-dev.floorplans.com/search/'</defaultValue>
+      <description></description>
+      <id>e66b3850-d1b8-4526-a975-9da4c7fe878a</id>
+      <masked>false</masked>
+      <name>searchUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'hhy@hanleywood.com'</defaultValue>
+      <description></description>
+      <id>60be352f-7ef0-4ae5-8ee2-ef7bbc7d6314</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Henry'</defaultValue>
+      <description></description>
+      <id>c754217b-2ee4-4fb8-9eb3-4f24e78a431f</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hy'</defaultValue>
+      <description></description>
+      <id>6a8efd54-e32f-4b14-ae6f-52f448b3f342</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Westfield Center'</defaultValue>
+      <description></description>
+      <id>c766111a-691e-4817-a993-d1746fc5a625</id>
+      <masked>false</masked>
+      <name>billingAddress</name>
+   </variable>
+</TestCaseEntity>
